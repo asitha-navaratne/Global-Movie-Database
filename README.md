@@ -16,3 +16,14 @@ internet which use this approach. This meant I had to go through quite a bit of 
 
 <p align="justify">While I didn't have enough time to put much effort on designing the front-end of the website, I hope to replace the existing views in the future with something 
 more modern and palatable than plain JSPs.</p>
+
+## UML Diagrams
+
+### ER diagram
+<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-er.drawio.png" alt="ER diagram" width="500" />
+
+### Use-case diagram for User
+<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-user-ucd.drawio.png" alt="Use-case diagram for User" width="500" />
+
+### Use-case diagram for Admin
+<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-admin-ucd.drawio.png" alt="Use-case diagram for Admin" width="500" />
