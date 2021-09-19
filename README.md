@@ -23,7 +23,7 @@ more modern and palatable than plain JSPs.</p>
 <img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-er.drawio.png" alt="ER diagram" width="500" />
 
 ### Use-case diagram for User
-<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-user-ucd.drawio.png" alt="Use-case diagram for User" width="500" />
+<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-user-ucd.png" alt="Use-case diagram for User" width="500" />
 
 ### Use-case diagram for Admin
-<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-admin-ucd.drawio.png" alt="Use-case diagram for Admin" width="500" />
+<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-admin-ucd.png" alt="Use-case diagram for Admin" width="500" />
