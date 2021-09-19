@@ -14,8 +14,7 @@ relationships with other entities. This could be a severe issue when fetching da
 using the Criteria API does make writing queries more safe and less prone to errors, the syntax is a bit counter intuitive for beginners and there aren't many examples on the 
 internet which use this approach. This meant I had to go through quite a bit of reading to figure out how to write some queries and conditions.</p>
 
-<p align="justify">While I didn't have enough time to put much effort on designing the front-end of the website, I hope to replace the existing views in the future with something 
-more modern and palatable than plain JSPs.</p>
+<p align="justify">While I didn't have enough time to put much effort on designing the front-end of the website, I hope to replace the existing views in the future with something more modern and palatable than plain JSPs. I'm looking into using React for this.</p>
 
 ## UML Diagrams
 
