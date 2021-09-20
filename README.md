@@ -19,10 +19,10 @@ internet which use this approach. This meant I had to go through quite a bit of 
 ## UML Diagrams
 
 ### ER diagram
-<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-er.drawio.png" alt="ER diagram" width="500" />
+<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-er.drawio.png" alt="ER diagram" width="650" />
 
 ### Use-case diagram for User
-<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-user-ucd.png" alt="Use-case diagram for User" width="500" />
+<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-user-ucd.png" alt="Use-case diagram for User" width="650" />
 
 ### Use-case diagram for Admin
-<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-admin-ucd.png" alt="Use-case diagram for Admin" width="500" />
+<img src="https://github.com/asitha-navaratne/Global-Movie-Database/blob/main/GlobalMovieDatabase/UML/gmdb-admin-ucd.png" alt="Use-case diagram for Admin" width="650" />
